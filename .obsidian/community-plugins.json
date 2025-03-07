@@ -2,5 +2,12 @@
   "obsidian-git",
   "templater-obsidian",
   "calendar",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin",
+  "obsidian-kanban",
+  "obsidian-style-settings",
+  "obsidian-icon-folder",
+  "obsidian-mind-map"
 ]
