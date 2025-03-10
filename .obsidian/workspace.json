@@ -6,6 +6,7 @@
       {
         "id": "4a1f3503f9fceda9",
         "type": "tabs",
+        "dimension": 55.52325581395349,
         "children": [
           {
             "id": "85d37141b476cbdb",
@@ -22,7 +23,7 @@
             }
           },
           {
-            "id": "d376895031aa92b7",
+            "id": "f7a3b8788ba9f4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,6 +42,7 @@
       {
         "id": "1d94e6c502b2c218",
         "type": "tabs",
+        "dimension": 44.47674418604651,
         "children": [
           {
             "id": "203bea695d162e78",
@@ -120,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "768e60051b20d046",
@@ -226,12 +228,15 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:カンバンボードを新規作成": false
     }
   },
-  "active": "4f46295630d132aa",
+  "active": "f7a3b8788ba9f4fa",
   "lastOpenFiles": [
-    "Welcome.md",
-    "直系尊属から住宅取得等資金の贈与を受けた場合の非課税手続き.md"
+    "Biglobe注意事項.md",
+    "直系尊属から住宅取得等資金の贈与を受けた場合の非課税手続き.md",
+    "Welcome.md"
   ]
 }
