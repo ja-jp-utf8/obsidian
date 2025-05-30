@@ -11,10 +11,14 @@
             "id": "569cd237ef28ed7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Biglobe注意事項.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Biglobe注意事項"
             }
           }
         ]
@@ -142,12 +146,25 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "8f63306e0f373b62",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,6 +176,8 @@
   },
   "active": "569cd237ef28ed7b",
   "lastOpenFiles": [
+    "Biglobe注意事項.md",
+    "/Biglobe注意事項.md",
     "直系尊属から住宅取得等資金の贈与を受けた場合の非課税手続き.md",
     "Welcome.md",
     "Untitled.md",
